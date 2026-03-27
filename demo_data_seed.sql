@@ -1,13 +1,3 @@
--- ============================================================
--- ZAP AI - Demo Data Seed Script
--- ============================================================
--- INSTRUCTIONS:
--- 1. First, sign up via the app to create your account + clinic
--- 2. After signing up, run this SQL in Supabase SQL Editor
--- 3. Replace <YOUR_TENANT_ID> with the actual tenant_id
---    (You can find it by running: SELECT id FROM tenants LIMIT 1;)
--- ============================================================
-
 -- Step 1: Get your tenant ID
 -- Run this first: SELECT id, name FROM tenants;
 
